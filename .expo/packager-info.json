@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://m2-bmb.anonymous.rncourse--section-4.exp.direct",
+  "packagerNgrokUrl": "https://m2-bmb.anonymous.rncourse--section-4.exp.direct",
+  "ngrokPid": 14048,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
